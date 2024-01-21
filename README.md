@@ -1,13 +1,8 @@
 # 💫About Me :
-Hi there! My name is Hung, and I am an AI Engineer. 
+Hi there! My name is Hung, and I am an Research Assistant in HUST. 
 
-As an AI Engineer, I specialize in developing and maintaining automated systems using artificial intelligence technologies. I have a strong background in computer vision and natural language processing, and I am skilled in programming languages such as Python
+Research field: Vision-language, 3D model, LLM
 
-My responsibilities include building and maintaining machine learning models and NLP systems, analyzing and visualizing data to determine important factors and appropriate models, approaching and resolving AI and NLP related issues, and collaborating with software developers and data managers to build and maintain automation systems. 
-
-I am well-versed in machine learning and NLP, and have the ability to analyze and solve problems. Additionally, I have excellent communication skills, which allows me to effectively collaborate with cross-functional teams and effectively communicate complex technical concepts to non-technical stakeholders. 
-
-Overall, I am passionate about utilizing AI technology to drive business growth and improve processes. I am always eager to learn and apply new AI technologies and methods, and I am dedicated to staying current with industry developments and trends.
 
 
 ## 🌐Socials
