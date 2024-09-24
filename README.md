@@ -6,5 +6,5 @@ Research field: Domain Adaptation, Vision-language, 3D model, LLM
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hưng-lê-minh-b66209215) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/minh-hưng-lê-b66209215) 
 
