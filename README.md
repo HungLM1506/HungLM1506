@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi there! My name is Hung, and I am an AI Researcher. 
+Hi there! My name is Hung, and I am an AI Engineer. 
 
 Research field: Domain Adaptation, Vision-language, 3D Recontruction, LLM
 
