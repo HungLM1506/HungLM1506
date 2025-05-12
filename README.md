@@ -3,7 +3,7 @@ Hi there! My name is Hung, and I am an AI Engineer.
 
 Research field: Domain Adaptation, Vision-language, 3D Recontruction, LLM
 
-## Education
+## 🎓Education
 - **Hanoi University of Science and Technology**  
   - Engineer of Engineering in Electronics and Telecommunications  
   - Study period: 2019 - 2024
