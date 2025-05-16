@@ -16,7 +16,7 @@ Research field: Domain Adaptation, Vision-language, 3D Recontruction, LLM
   - Built scalable MLOps pipelines for training, evaluation, and deployment of large models.
   - Researched applications of Large Language Models (LLMs) in technical and enterprise contexts.
 
-- **AI Research Assisstant - [MICA - HaNoi University of Science and Technology]**  
+- **AI Research Assisstant - [SigM Lab - HaNoi University of Science and Technology]**  
   *Duration: 1/2023 – 10/2024*  
   - Contributed to a research project on 3D reconstruction from single images.  
   - Authored technical reports and prepared demos for academic presentations and conferences.
