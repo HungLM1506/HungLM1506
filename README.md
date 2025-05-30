@@ -12,7 +12,7 @@ Research field: Domain Adaptation, Vision-language, 3D Recontruction, LLM
 
 - **AI Engineer - [AvePoint]**  
   *Duration: 10/2024 – Present*  
-  - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and agentic workflows.
+  - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and AI Agents.
   - Built scalable MLOps pipelines for training, evaluation, and deployment of large models.
   - Researched applications of Large Language Models (LLMs) in technical and enterprise contexts.
 
